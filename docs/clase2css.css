@@ -1,0 +1,88 @@
+* {
+    margin: 10px;
+    padding: 0;
+}
+
+body {
+    background: url(fondo-vivo-css.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: azure;
+}
+
+ul li {
+    display: inline-block;
+    margin: 10px;
+
+}
+
+header {
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+    background-attachment: fixed;
+    position: relative;
+
+
+}
+
+img {
+    margin-left: 350px;
+}
+
+main {
+
+    text-align: justify;
+    color: black;
+    background: azure;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 2px solid red;
+
+}
+
+p {
+    font-size: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+h2 {
+    text-align: center;
+    border-bottom: 2px solid azure;
+}
+
+article h2 {
+    border-bottom: 2px solid black;
+}
+
+a {
+    color: azure;
+}
+
+a:hover {
+    background-color: green;
+    border-radius: 10px;
+}
+
+.mesias {
+    font-size: 20px;
+    float: left;
+}
+
+h1 {
+    color: azure;
+    font-style: italic;
+    text-align: center;
+
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+footer {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
